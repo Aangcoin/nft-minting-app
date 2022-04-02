@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x6F55a896e71DC81E4972f7f5977A66CfE1e8BAfa",
-  "SCAN_LINK": "https://bscscan.com/token/0x6f55a896e71dc81e4972f7f5977a66cfe1e8bafa",
+  "CONTRACT_ADDRESS": "0x18fA77fc333b2221da23bDe1e383D6f950A3E609",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x18fa77fc333b2221da23bde1e383d6f950a3e609",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Matic Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 180001
   },
   "NFT_NAME": "Ugly Ducks Society NFT",
   "SYMBOL": "UDS",
   "MAX_SUPPLY": 7777,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://supremekushkings.nftify.network/collection/supremekushkingsnft-1645386179757",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/uglyduckssocietynft-v2",
   "SHOW_BACKGROUND": true
 }
